@@ -1,0 +1,26 @@
+[
+  {
+    "address":"0xDAFEA4...92c98Bc5",
+    "status": "Safe",
+    "date": "16 Jan 2022",
+    "confidence": 75.5  
+  },
+  {
+    "address":"0x8CE913...e089b6A9",
+    "status": "Scam",
+    "date": "18 Feb 2023",
+    "confidence": 25.5  
+  },
+  {
+    "address":"0x3511Da...db8Da7b4",
+    "status": "Warning",
+    "date": "20 Mar 2023",
+    "confidence": 90  
+  },
+  {
+    "address":"0x279317...c02f2e87",
+    "status": "Safe",
+    "date": "25 Mar 2023",
+    "confidence": 50.5  
+  }
+]
